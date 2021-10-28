@@ -8,9 +8,9 @@
 
       $userN = $_POST['username'];
       $passW = $_POST['password'];
-      $result= $conn->query("SELECT * FROM account WHERE username='$userN' AND password='$passW'"); 
+      $result= $conn->query("SELECT * FROM USERACCOUNT WHERE username='$userN' AND password='$passW'"); 
 
-      $row= $result ->Fetch_array();
+      $row= $result->Fetch_array();
       $loginCheck= $result-> num_rows;
   
       if($loginCheck> 0)
