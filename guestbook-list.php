@@ -3,20 +3,12 @@
     require('config/config.php');
     require('config/db.php');
 
-    //Create Query
-    $query = 'SELECT * FROM person';
-
-    //Get Result
+   $result= $conn->query("SELECT * FROM person"); 
+     $query = 'SELECT * FROM person ORDER BY id DESC';
     $result = mysqli_query($conn, $query);
-
-    //Fetch Data
     $persons = mysqli_fetch_all($result, MYSQLI_ASSOC);
-    //var_dump($persons);
-    //Free Result
     mysqli_free_result($result);
-
-    //Close connection
-    mysqli_close($conn);
+    mysqli_close($conn)
 ?>
 
 <?php include('inc/header.php'); ?>
