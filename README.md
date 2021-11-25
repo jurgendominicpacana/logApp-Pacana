@@ -36,16 +36,17 @@ Create a new database, then customize:
 
 # logApp User Interface
 ***
-![logApp_reg](https://drive.google.com/file/d/1_VWEA6W-OASPYd9HPKBKiRN4w0KyOoY7/view?usp=sharing)
+![logApp_reg](https://pbs.twimg.com/media/FFDNQJ2UUAIVHix?format=png&name=large)
 ***
-![logApp_signin](https://drive.google.com/file/d/1lm4XrzHHpVXqf8QRzm1PDX1RxQRPs_8L/view?usp=sharing)
+![logApp_signin](https://pbs.twimg.com/media/FFDNQJ3VgAEahZo?format=png&name=large)
 ***
-![logApp_list](https://drive.google.com/file/d/1FhtGvV1xQbC1WSaZAeAC2x9cy7Lu-uEI/view?usp=sharing)
+![logApp_list](https://pbs.twimg.com/media/FFDNQJ0VEAIwtga?format=png&name=large)
 ***
 
 # 5. Author
 ***
 ![itsme](https://avatars.githubusercontent.com/u/91299532?s=96&v=4)
+
 __PACAÑA, JURGEN DOMINIC, I.__
 __BSCS-3B1__
 😄
