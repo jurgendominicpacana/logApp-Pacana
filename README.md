@@ -1,8 +1,8 @@
 # logApp-scaling-octo
 ***
 ### 2. Description
-This repo is for Practice Set 06, a log application that can store personal information through user input.
-A registration tab, a list of all recorded informaton, and a sign-in tab is available. 
+> This repo is for Practice Set 06, a log application that can store personal information through user input.
+> A registration tab, a list of all recorded informaton, and a sign-in tab is available. 
 
 ### 3-4. Installation w/ Visuals
 First, install [XAMPP](https://www.apachefriends.org/download.html) with the matching Operating System (OS) that your computer uses.
@@ -35,7 +35,22 @@ Create a new database, then customize:
 ***
 
 # logApp User Interface
-![logApp_signin](blob:https://www.messenger.com/fc493bc0-b341-48af-8ddb-cf181fa594c9)
+***
+![logApp_reg](https://drive.google.com/file/d/1_VWEA6W-OASPYd9HPKBKiRN4w0KyOoY7/view?usp=sharing)
+***
+![logApp_signin](https://drive.google.com/file/d/1lm4XrzHHpVXqf8QRzm1PDX1RxQRPs_8L/view?usp=sharing)
+***
+![logApp_list](https://drive.google.com/file/d/1FhtGvV1xQbC1WSaZAeAC2x9cy7Lu-uEI/view?usp=sharing)
+***
+
+# 5. Author
+***
+![itsme](https://avatars.githubusercontent.com/u/91299532?s=96&v=4)
+__PACAÑA, JURGEN DOMINIC, I.__
+__BSCS-3B1__
+😄
+
+
 
 
 
