@@ -1,4 +1,5 @@
 # logApp-scaling-octo
+***
 ### 2. Description
 This repo is for Practice Set 06, a log application that can store personal information through user input.
 A registration tab, a list of all recorded informaton, and a sign-in tab is available. 
@@ -8,26 +9,34 @@ First, install [XAMPP](https://www.apachefriends.org/download.html) with the mat
 
 ![XAMPP](https://media.geeksforgeeks.org/wp-content/uploads/20190719174028/xamppDownloadScreen.jpg) 
 ***
+
 During the installation process, select the appropriate applications--in this case, 
 *MySQL, FileZilla ftp server, PHP, phpMyAdmin*.
 
 ![XAMPPapps](https://www.wikihow.com/images/thumb/9/98/Install-XAMPP-for-Windows-Step-6-Version-4.jpg/v4-460px-Install-XAMPP-for-Windows-Step-6-Version-4.jpg.webp)
 ***
+
 Uncheck the *learn more about bitnami* option, click *Next* then choose your root directory,
 proceed to "Allow access" button so that XAMPP won't be blocked by your firewall.
 Finally, go to where you set the root directory--open "xampp-control.exe" it should look like this:
 
 ![XAMPPcontrol](https://media.geeksforgeeks.org/wp-content/uploads/20190719175159/xamppControlPanel.jpg)
 ***
+
 Open up your browser, type in the address *localhost/phpmyadmin*.
 It should look somewhat like this:
 
 ![phpmyadmin](https://i.ytimg.com/vi/5cKDCc_vt1w/maxresdefault.jpg)
 ***
+
 Create a new database, then customize:
 
 ![database](https://www.homeandlearn.co.uk/php/images/database/phpMyAdmin_start_screen2.gif)
 ***
+
+# logApp User Interface
+![logApp_signin](blob:https://www.messenger.com/fc493bc0-b341-48af-8ddb-cf181fa594c9)
+
 
 
 
